@@ -33,4 +33,4 @@ How neat and orderly it is place, because as someone that is looking for a futur
 • Do you feel that this collection of work really reflects your abilities and what you have achieved so far this year? Why or why not?
 Yes, because not only was i able to create full functioning programs but i understand how these commands and syntax work to make it do what i want it to do.
 
-[About Me](./ReadME.md)
+[About Me](https://github.com/SmashedLeek/AboutMe/blob/master/README.md)
